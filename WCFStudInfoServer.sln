@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFStudInfoServer", "WCFStudInfoServer\WCFStudInfoServer.csproj", "{EA2377FC-206D-4289-AA8C-DEA7C82B8A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2377FC-206D-4289-AA8C-DEA7C82B8A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2377FC-206D-4289-AA8C-DEA7C82B8A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2377FC-206D-4289-AA8C-DEA7C82B8A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2377FC-206D-4289-AA8C-DEA7C82B8A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685FDDE7-CA02-46D6-9BEB-C9DFA456BDA8}
+	EndGlobalSection
+EndGlobal
